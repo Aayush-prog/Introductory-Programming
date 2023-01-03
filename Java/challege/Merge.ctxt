@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Merge
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=list
+comment2.target=java.util.List\ mergeSort(java.util.List)
+comment3.params=list
+comment3.target=java.util.List\ leftHalf(java.util.List)
+comment4.params=list
+comment4.target=java.util.List\ rightHalf(java.util.List)
+comment5.params=left\ right
+comment5.target=java.util.List\ merge(java.util.List,\ java.util.List)
+numComments=6
